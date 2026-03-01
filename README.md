@@ -270,7 +270,7 @@ https://opentelemetry.io/docs/demo/feature-flags/
 
 Flag values are stored in the `src/flagd/demo.flagd.json` file. To enable a flag, change the `defaultVariant` value in the config file for a given flag to “on”.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/84ad6f6a-681d-4a55-a9be-d328db326720/d2c52040-b68f-4d64-91c1-e424882b7e01/7d132b2c-58a3-44d8-b6e2-e0a1431300cc.png)
+![image.png](images/image(9).png)
 
 ## **View and Analyse with the Jaeger UI**
 
